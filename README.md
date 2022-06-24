@@ -1,0 +1,1 @@
+# NLP-CIC-WFU-Contribution-to-PARMEX-shared-task-2022
