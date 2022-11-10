@@ -10,7 +10,9 @@ Alexander Gelbulkh (gelbukh@gelbukh.com)
 
 For bugs or questions related to the code, do not hesitate to contact us (Antonio Tamayo: ajtamayoh@gmail.com)
 
-If you use this code please cite our work: comming soon.
+If you use this code please cite our work:
+
+Tamayo, A., Burgos, D. A., & Gelbukh, A. (2022). Using transformers on noisy vs. clean data for paraphrase identification in mexican spanish. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2022).
 
 ## Abstract
 
